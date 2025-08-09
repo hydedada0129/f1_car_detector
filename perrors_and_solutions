@@ -1,0 +1,4 @@
+conversion issue:
+.pt to .tflite
+Python version needs to greater than 3.8
+
