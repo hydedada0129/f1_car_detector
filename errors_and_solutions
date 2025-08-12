@@ -3,7 +3,7 @@ Conversion issue:
 Python version needs to greater than 3.8
 
 ========================
-shape mismatch issue:
+model's shape mismatch issue:
 java.lang.IllegalArgumentException: Cannot copy from a TensorFlowLite tensor (Identity) with shape [1, 5, 8400] to a Java object with shape [705600].
 
 TF (3d, model output) to Java (2d, )
